@@ -1,0 +1,10 @@
+{
+	"May mga roomates nako sa college":[[250, 250], 2.5, ["fadein", "fadeout"]],
+	"Di nako makakapag lulu...":[[250, 350], 3, ["fadein", "fadeout", true]],
+	"Last visit kona ata to sa ***":[[250, 250], 2.5, ["None","None"]],
+	"Paalam popular page na puro NTR":[[250, 250], 2.5, ["None","None"]],
+	"Paalam AI generated Makima corn":[[250, 250], 2.5, ["None","None"]],
+	"Seryoso na buhay ko...":[[250, 250], 2.5, ["fadein", "fadeout"]],
+	"Potangina!!!":[[250, 250], 2.5, ["None","None"]],
+	"Ayoko pa tumanda!!!":[[250, 250], 2.5, ["None","None"]]
+	}
